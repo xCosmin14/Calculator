@@ -17,13 +17,13 @@
 ## 🚀 Installation
 
 ```bash
-I may be uploading the exe
+Download the archive: https://drive.google.com/file/d/1gaW94P9tf2i2NasgHOwd43m9GqcLm-u2/view?usp=sharing
 ```
 
 ## 💻 Usage
 
 ```bash
-Run the exe (eventually)
+Extract the archive and run Calculator.exe
 ```
 
 ## ✨ Features

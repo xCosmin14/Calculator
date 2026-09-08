@@ -1,0 +1,100 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Calculator",
+                "lineNumber": 86,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "op",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 111,
+                        "name": "addOp",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "op",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "currentText",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 112,
+                        "name": "addOperation",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "open",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 2,
+                        "lineNumber": 113,
+                        "name": "addParanthese",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "lineNumber": 115,
+                        "name": "deleteLast",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "token",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 4,
+                        "isConst": true,
+                        "lineNumber": 116,
+                        "name": "numberToCutBy",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "index": 5,
+                        "lineNumber": 118,
+                        "name": "clear",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 6,
+                        "lineNumber": 119,
+                        "name": "evaluate",
+                        "returnType": "float"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "Calculator",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "Calculator.h",
+        "outputRevision": 69
+    }
+]

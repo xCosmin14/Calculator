@@ -1,0 +1,6 @@
+module Calculator
+typeinfo Calculator.qmltypes
+prefer :/qt/qml/Calculator/
+Main 254.0 Main.qml
+depends QtQuick
+

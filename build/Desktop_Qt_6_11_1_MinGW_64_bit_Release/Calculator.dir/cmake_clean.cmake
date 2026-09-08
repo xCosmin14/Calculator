@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_Calculator_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Calculator.cpp"
+  ".rcc/qmlcache/Calculator_Main_qml.cpp"
+  ".rcc/qmlcache/Calculator_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/Calculator_qmlcache_loader.cpp"
+  "CMakeFiles/Calculator_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/Calculator_autogen.dir/ParseCache.txt"
+  "Calculator_autogen"
+  "CMakeFiles/Calculator.dir/Calculator.cpp.obj"
+  "CMakeFiles/Calculator.dir/Calculator.cpp.obj.d"
+  "CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/Calculator.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/.qt/rcc/qrc_Calculator_raw_qml_0.cpp.obj"
+  "CMakeFiles/Calculator.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/.qt/rcc/qrc_Calculator_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/Calculator.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/.qt/rcc/qrc_qmake_Calculator.cpp.obj"
+  "CMakeFiles/Calculator.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/.qt/rcc/qrc_qmake_Calculator.cpp.obj.d"
+  "CMakeFiles/Calculator.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/.rcc/qmlcache/Calculator_Main_qml.cpp.obj"
+  "CMakeFiles/Calculator.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/.rcc/qmlcache/Calculator_Main_qml.cpp.obj.d"
+  "CMakeFiles/Calculator.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/.rcc/qmlcache/Calculator_qmlcache_loader.cpp.obj"
+  "CMakeFiles/Calculator.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/.rcc/qmlcache/Calculator_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/Calculator.dir/calculator_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/Calculator.dir/calculator_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/Calculator.dir/main.cpp.obj"
+  "CMakeFiles/Calculator.dir/main.cpp.obj.d"
+  "Calculator.exe"
+  "Calculator.exe.manifest"
+  "Calculator.pdb"
+  "Calculator/Calculator.qmltypes"
+  "Calculator_autogen/mocs_compilation.cpp"
+  "Calculator_autogen/timestamp"
+  "calculator_qmltyperegistrations.cpp"
+  "libCalculator.dll.a"
+  "meta_types/Calculator_json_file_list.txt"
+  "meta_types/Calculator_json_file_list.txt.timestamp"
+  "meta_types/qt6calculator_metatypes.json"
+  "meta_types/qt6calculator_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Calculator.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
